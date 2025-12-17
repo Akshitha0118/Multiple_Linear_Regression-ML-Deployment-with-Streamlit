@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(135deg, #1d2671, #c33764);
+    font-family: "Segoe UI", sans-serif;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    text-align: center;
+    opacity: 0.85;
+    margin-bottom: 30px;
+}
+
+.metric-box {
+    background: rgba(0,0,0,0.35);
+    padding: 16px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.metric-value {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2ecc71;
+}
+
+.metric-label {
+    opacity: 0.8;
+    font-size: 14px;
+}
+
+.footer {
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 40px;
+}
