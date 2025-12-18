@@ -1,5 +1,9 @@
 # Multiple_Linear_Regression-ML-Deployment-with-Streamlit
 
+
+# streamlit live app link :https://multiplelinearregression-ml-deployment-with-app-a8vyz5zuerwhmd.streamlit.app/
+
+
 # 📈 Investment Profit Prediction using Multiple Linear Regression
 
 This project demonstrates how Multiple Linear Regression can be applied to an investment dataset to analyze the impact of different investment attributes on profit and to identify statistically significant features using OLS (Ordinary Least Squares) regression.
